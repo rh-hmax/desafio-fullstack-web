@@ -16,7 +16,7 @@ Precisamos de uma API para cadastro de produtos para uma loja genérica e um Fro
 ### Requisitos não funcionais
 1. A API deve usar [NestJs](https://nestjs.com/) com Typescript
 2. A API deve seguir um padrão [REST](https://cloud.google.com/apis/design)
-3. A API deve ter pelo menos 3 testes unitários com JEST
+3. A API deve ter pelo menos 3 testes unitários com [JEST](https://jestjs.io/pt-BR/)
 4. A API deve usar o [Prisma ORM](https://www.prisma.io/)
 4. A API deve usar preferencialmente o banco de dados NoSQL MongoDB, não sendo possível, utilizar PostgreSQL _(ver documentação do Prisma)_
 6. O Frontend deve ser desenvolvido em [Angular](https://angular.dev/)
