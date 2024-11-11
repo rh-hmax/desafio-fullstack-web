@@ -11,7 +11,7 @@ Precisamos de uma API para cadastro de produtos para uma loja genérica e um Fro
 5. Como gerente gostaria de BUSCAR produtos pela sua DESCRIÇÃO
 6. Como gerente preciso que os resultados sejam PAGINADOS
 7. Como gerente quero que apenas pessoas com permissão possam: adicionar, editar remover produtos
-8. Como CLIENTE quero VIZUALIZAR a lista de produtos
+8. Como CLIENTE quero VISUALIZAR a lista de produtos
 
 ### Requisitos não funcionais
 1. A API deve usar [NestJs](https://nestjs.com/) com Typescript
